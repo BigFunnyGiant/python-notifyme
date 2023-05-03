@@ -7,5 +7,7 @@ It runs with Python 3 if you give it execute permissions.
 
 run it like this ./notify_me.py "message" --api-key-file /path/to/textfile/with/key
 
+Admittedly written with the help of ChatGPT. Just to see if I could do it.
+
 
 
