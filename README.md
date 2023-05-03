@@ -5,7 +5,7 @@ It accepts command line input and can read the API key from a text file, either 
 
 It runs with Python 3 if you give it execute permissions. 
 
-run it like this ./notify_me.py "message" --api-key-file /path/to/textfile/with/key
+run it like this ./notify_me.py "Hello, World!" --api-key-file /path/to/api_key.txt
 
 Admittedly written with the help of ChatGPT. Just to see if I could do it.
 
