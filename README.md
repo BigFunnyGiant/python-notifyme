@@ -24,3 +24,4 @@ or\
 
 ## Dependencies
 - Python 3
+-  [Notify Me](https://www.thomptronics.com/about/notify-me) API key
