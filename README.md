@@ -19,7 +19,7 @@ or copy it to somewhere you like, maybe in the PATH so you can execute it from a
 ## Usage
 ./notify_me.py "Hello, World!"\
 or\
-./notify_me.py "Hello, World!" --api-key-file /path/to/api_key.txt\
+./notify_me.py "Hello, World!" --api-key-file /path/to/api_key.txt
 
 
 ## Dependencies
